@@ -10,9 +10,9 @@ This is the third line of our data.
 Part 4
 Developer's bran:wqch part
 
+<<<<<<< HEAD
 Part 5.1
 This is fifth line.:wq
-
 
 
  
