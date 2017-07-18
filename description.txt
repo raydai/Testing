@@ -1,10 +1,8 @@
 Can I see this ?
 Ray Su
 
-
-
-
-
 Part 2
 This is part two section!!!
 
+Part 3
+This is the third line of our data. 
